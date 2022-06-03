@@ -112,7 +112,7 @@ Add a New Project
       {
         type: 'confirm',
         name: 'confirmAddProject',
-        message: 'Would you like to enter another project?',
+        message: 'Would you like to enter another employee',
         default: false
       }
     ])
